@@ -2,3 +2,7 @@
 .idea/*
 src/modelo/__pycache__/*
 src/logica/__pycache__/*
+venv/*
+tests/__pycache__/*
+.vscode/
+.coverage
